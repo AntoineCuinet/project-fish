@@ -1,4 +1,3 @@
-# Projet-L2-Système
+# Fish project
 
-Code d'un interpréteur de commande (shell) - First Shell, ou en abrégé fish
-Pour le projet final (en monôme) de l'UE Système et programmation Système de seconde année de licence informatique.
+Code for a command-line interpreter (shell) — "First Shell," or "fish" for short — for the final project of the "System and System Programming" course unit.
